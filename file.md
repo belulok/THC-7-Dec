@@ -1,4 +1,4 @@
 ## Todos
 
 - [ ] LearnGit
-- [ ] LearnGitHub
+- [x] LearnGitHub
